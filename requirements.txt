@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+ipykernel
+catboost
+xgboost
+Flask
+dataclasses
+
+#-e .
